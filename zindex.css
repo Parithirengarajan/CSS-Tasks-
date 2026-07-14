@@ -1,0 +1,72 @@
+.player1{
+    background-color: rgb(208, 96, 96);
+    color:white;
+    padding: 25px;
+    text-align: center;
+    margin:20px;
+    width: 100px;
+    position: relative;
+    z-index:1;
+  
+}
+.player2{
+    background-color: rgb(137, 217, 68);
+    color:white;
+    padding: 25px;
+    text-align: center;
+    margin:20px;
+    width: 100px;
+    position: relative;
+    bottom:50px;
+     z-index:2;
+   
+
+}
+.player3{
+    background-color: rgb(112, 93, 173);
+    color:white;
+    padding: 25px;
+    text-align: center;
+    margin:20px;
+    width: 100px;
+    position: relative;
+     bottom:100px;
+     z-index:10;
+    
+}
+.player4{
+    background-color: rgb(140, 64, 121);
+    color:white;
+    padding: 25px;
+    text-align: center;
+    margin:20px;
+    width: 100px;
+    position: relative;
+    
+}
+.player4{
+    background-color: rgb(140, 64, 121);
+    color:white;
+    padding: 25px;
+    text-align: center;
+    margin:20px;
+    width: 100px;
+    position: relative;
+   
+    
+   
+}
+.player5{
+    background-color: rgb(140, 64, 121);
+    color:white;
+    padding: 25px;
+    text-align: center;
+    margin:20px;
+    width: 100px;
+    position: relative;
+ 
+    
+   
+}
+    
+
