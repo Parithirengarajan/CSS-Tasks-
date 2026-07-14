@@ -1,0 +1,11 @@
+.first-container{
+    position: fixed;
+    background: red;
+    color: white;
+    overflow:scroll;
+}
+.first-container img{
+    height: 220px;
+    width:220px;
+    right:20px;
+}
