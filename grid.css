@@ -1,0 +1,16 @@
+ p{
+   background-color: blueviolet;
+         color: aliceblue;
+   border:2px solid;
+   text-align:center;
+   padding:20px;
+   margin:0;
+  
+
+}
+  .container {
+        display:grid;
+        grid-template-columns:1fr 4fr 1fr 1fr;
+        gap:10px;
+        
+}
