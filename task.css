@@ -1,0 +1,28 @@
+h1{
+  text-align:center;
+}
+.pic> img{
+    margin:0 0 0 200px;
+    align-self:center;
+    width:200px;
+    height:210px;
+}
+.pic1{
+    position:relative;
+}
+.pic2{
+    position:absolute;
+    top:180px;
+    left:170px;
+}
+.pic3{
+    position:absolute;
+     top:360px;
+     left:250px;
+}
+.pic4{
+    position:absolute;
+     top: 540px;
+    left:400px;
+}
+
